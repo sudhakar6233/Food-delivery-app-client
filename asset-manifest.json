@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Food-delivery-app-client/static/css/main.27ef0376.css",
+    "main.js": "/Food-delivery-app-client/static/js/main.5bd9652b.js",
+    "static/media/card4.jpg": "/Food-delivery-app-client/static/media/card4.11f2599eff36d0a63c90.jpg",
+    "static/media/img3.png": "/Food-delivery-app-client/static/media/img3.5a60caed88e3e7a47e02.png",
+    "static/media/login.jpg": "/Food-delivery-app-client/static/media/login.e021d4ef00bec5994a9b.jpg",
+    "static/media/food8.jpg": "/Food-delivery-app-client/static/media/food8.ca5158742b27dece6ef8.jpg",
+    "static/media/buy icon1.png": "/Food-delivery-app-client/static/media/buy icon1.becfc922bce4a1af7382.png",
+    "static/media/order icon.png": "/Food-delivery-app-client/static/media/order icon.39151c73b9b754f0510d.png",
+    "static/media/delivery1.png": "/Food-delivery-app-client/static/media/delivery1.54d1ae8bf0351be3e9a7.png",
+    "static/media/login,jpg.avif": "/Food-delivery-app-client/static/media/login,jpg.d182191ad37867d29c36.avif",
+    "static/media/img2.jpg": "/Food-delivery-app-client/static/media/img2.9251308b20496c6a59b4.jpg",
+    "static/media/foodBanner.jpg": "/Food-delivery-app-client/static/media/foodBanner.ec5b28e33f6a393d831e.jpg",
+    "static/media/phone-frame.png": "/Food-delivery-app-client/static/media/phone-frame.64964e46ffd68693829e.png",
+    "static/media/hero.jpg": "/Food-delivery-app-client/static/media/hero.7b9ba5c838055de7402d.jpg",
+    "static/media/card3.jpg": "/Food-delivery-app-client/static/media/card3.587e1f886e4bfc245c53.jpg",
+    "static/media/card2.jpg": "/Food-delivery-app-client/static/media/card2.d535377d9c2053dd5965.jpg",
+    "static/media/img1.jpg": "/Food-delivery-app-client/static/media/img1.7a12fb331528fb07b5bd.jpg",
+    "static/media/card1.jpg": "/Food-delivery-app-client/static/media/card1.c0a0425a5f5581d4a991.jpg",
+    "static/media/food11.jpg": "/Food-delivery-app-client/static/media/food11.046b5118eca0c2300b5c.jpg",
+    "static/media/food5.jpg": "/Food-delivery-app-client/static/media/food5.173d1c71334591f12967.jpg",
+    "static/media/card6.jpg": "/Food-delivery-app-client/static/media/card6.655c6b7b0ae32b99d190.jpg",
+    "static/media/food1.jpg": "/Food-delivery-app-client/static/media/food1.4d011b00cfcd6995604d.jpg",
+    "static/media/food10.jpg": "/Food-delivery-app-client/static/media/food10.a0f0b631d9c66f64a399.jpg",
+    "static/media/food6.jpg": "/Food-delivery-app-client/static/media/food6.e5bae58939148453bb5a.jpg",
+    "static/media/food4.jpg": "/Food-delivery-app-client/static/media/food4.d63f6a399b318afe9f61.jpg",
+    "static/media/card5.jpg": "/Food-delivery-app-client/static/media/card5.5c3d35143d5cb3957089.jpg",
+    "static/media/food9.jpg": "/Food-delivery-app-client/static/media/food9.7507a348622daf6800da.jpg",
+    "static/media/food7.jpg": "/Food-delivery-app-client/static/media/food7.ed4be245ab07c005cadc.jpg",
+    "static/media/food3.jpg": "/Food-delivery-app-client/static/media/food3.462f2ff19d2de5a237cb.jpg",
+    "index.html": "/Food-delivery-app-client/index.html",
+    "main.27ef0376.css.map": "/Food-delivery-app-client/static/css/main.27ef0376.css.map",
+    "main.5bd9652b.js.map": "/Food-delivery-app-client/static/js/main.5bd9652b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ef0376.css",
+    "static/js/main.5bd9652b.js"
+  ]
+}
