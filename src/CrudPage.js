@@ -26,6 +26,7 @@ function CrudPage() {
   const fetchData = () => {
     Axios.get('https://food-delivery-app-server-1.onrender.com/read').then((response) => {
       setFoodList(response.data);
+      console.log(response.data);
     });
   };
 
