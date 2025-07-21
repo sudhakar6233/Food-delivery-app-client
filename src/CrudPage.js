@@ -14,7 +14,7 @@ function CrudPage() {
   }, []);
 
   const addFoodData = () => {
-    Axios.post('http://localhost:3001/insert', { foodName, description })
+    Axios.post('https://food-delivery-app-server-1.onrender.com/insert', { foodName, description })
       .then(() => {
         fetchData();
         setFoodName("");
@@ -24,13 +24,13 @@ function CrudPage() {
   };
 
   const fetchData = () => {
-    Axios.get('http://localhost:3001/read').then((response) => {
+    Axios.get('https://food-delivery-app-server-1.onrender.com/read').then((response) => {
       setFoodList(response.data);
     });
   };
 
   const updateFood = (id) => {
-    Axios.put('http://localhost:3001/update', { id, newFoodName })
+    Axios.put('https://food-delivery-app-server-1.onrender.com/update', { id, newFoodName })
       .then(() => {
         fetchData();
         setNewFoodName("");
@@ -38,7 +38,7 @@ function CrudPage() {
   };
 
   const deleteFood = (id) => {
-    Axios.delete(`http://localhost:3001/delete/${id}`).then(() => fetchData());
+    Axios.delete(`https://food-delivery-app-server-1.onrender.com/delete/${id}`).then(() => fetchData());
   };
 
   return (
